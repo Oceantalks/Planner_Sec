@@ -3,7 +3,7 @@ UserApi
 Joel and Adonais project in the course Integration in JU15 Plushögskolan/Teknikhögskolan
 How to start in Console
 
-1) Clone project git clone git@github.com:hidfy/Planner.git
+1) Clone project git clone https://github.com/hidfy/Planner_Sec.git
 
 2) Create a MYSQL -database called userapi at your host or localhost use: http://localhost:8080/
 
